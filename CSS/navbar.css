@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.navbar {
+    background-color: cadetblue;
+    height: 50px;
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-align: center;
+}
+li {
+    display: inline-block;
+    margin-right: 20px;
+    padding-top: 10px;
+}
+
+
