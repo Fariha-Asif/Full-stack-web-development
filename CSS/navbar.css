@@ -4,7 +4,8 @@
 }
 .navbar {
     background-color: cadetblue;
-    height: 50px;
+    height: 5vw;
+    width: 100%vw;
     color: white;
     padding: 10px;
     font-size: 20px;
@@ -17,5 +18,6 @@ li {
     margin-right: 20px;
     padding-top: 10px;
 }
+
 
 
